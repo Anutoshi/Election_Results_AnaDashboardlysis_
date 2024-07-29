@@ -1,4 +1,7 @@
-# Election_Results_Analysis_Dashboard_Project
+# Election_Results_Analysis_Dashboard
+
+View my Tableau-Projects Dashboards on my Tableau Public Profile link-
+
 
 
 Objective:
@@ -73,3 +76,7 @@ Deliverables:
 A fully developed Tableau file containing all the visualizations and interactive elements.
 PowerPoint presentation Video explaining analysis of election data.
 
+
+Screenshots
+
+![election](https://github.com/user-attachments/assets/51dbcea8-6175-4118-ae36-f05f8ff41de7)
