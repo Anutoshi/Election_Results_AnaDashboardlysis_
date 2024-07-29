@@ -1,9 +1,5 @@
 # Election_Results_Analysis_Dashboard
 
-View my Tableau-Projects Dashboards on my Tableau Public Profile link-
-
-
-
 Objective:
 The objective of this task is to analyze the 2024 election data to gain insights into the election results,
 party performance, and voter trends across various constituencies. The goal is to utilize Tableau tool to
