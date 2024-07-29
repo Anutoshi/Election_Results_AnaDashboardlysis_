@@ -79,4 +79,21 @@ PowerPoint presentation Video explaining analysis of election data.
 
 Screenshots
 
+Election_Results_Analysis_Dashboard
+
 ![election](https://github.com/user-attachments/assets/51dbcea8-6175-4118-ae36-f05f8ff41de7)
+
+What I learnt in Tableau:
+
+* To create interactive dashboards and publish it online to share
+* Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud servers
+* To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts
+* To Create Calculated fields including developing IF Statements
+* To Create sets, hierarchies and groups
+* Understand how joins work
+* Understand LOD calculations
+* To create Parameters
+* Understand how to make use of the analytics pane including using trend lines
+* Understand how to use dashboard actions and create interactive dashboards
+  
+  
